@@ -72,7 +72,7 @@ max-height: 500px;
 
   /* Requirement 9 code here -- Do not remove this comment. */
 .text{
-  align-self: auto;
+  align-self: center;
   max-height: 40vh;
   overflow: scroll;
 
