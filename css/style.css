@@ -132,7 +132,7 @@ max-height: 500px;
   /* Requirement 15 code here -- Do not remove this comment. */
  
  .about-image, .clients-image, .method-image, .contact-image{
-  display: flex;}
+  overflow: hidden;}
  }
 /** Code for prefers reduced motion **/
 /* Make no changes below this line.
